@@ -5,4 +5,4 @@ Think of it like, sticking an old piece of gum to the bottom of a desk because y
 
 Eh, how about a never ending fabric cork board. Yeah thats it.
 
-http://www.youtube.com/watch?v=fuhleO06_RY
+[![](http://gitdatvideo.nfshost.com/fuhleO06_RY)(http://www.youtube.com/watch?v=fuhleO06_RY)
